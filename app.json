@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "RockPaperScissorsReactNative",
+    "slug": "RockPaperScissorsReactNative",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/icons/icon.png",
+    "splash": {
+      "image": "./src/assets/icons/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./src/assets/icons/favicon.png"
+    }
+  }
+}
